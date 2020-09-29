@@ -1,0 +1,1 @@
+# tester-static-site
